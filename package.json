@@ -1,6 +1,6 @@
 {
   "name": "viberank",
-  "version": "0.1.13",
+  "version": "0.1.14",
   "description": "\ud83c\udfc6 The AI coding usage leaderboard \u2014 Claude Code, Codex, Gemini CLI & more. Real costs and tokens from ccusage data. Submit with: npx viberank-cli",
   "main": "src/index.ts",
   "scripts": {
